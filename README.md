@@ -24,7 +24,7 @@ https://hwangseokbeom.github.io/VictoryFairy-legal/
 
 ## How to Edit
 
-Edit the HTML files directly for page content. Edit `styles.css` for site-wide visual changes. Replace the placeholder contact address `support@example.com` with the real support email before public release.
+Edit the HTML files directly for page content. Edit `styles.css` for site-wide visual changes. The public support contact is `tjrqja07@icloud.com`; update all pages together if it changes.
 
 ## Enable GitHub Pages
 
