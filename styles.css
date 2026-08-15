@@ -288,6 +288,22 @@ table {
   overflow: hidden;
 }
 
+.table-scroll {
+  margin: 18px 0;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.table-scroll table {
+  margin: 0;
+  min-width: 760px;
+}
+
+.table-scroll:focus-visible {
+  outline: 3px solid rgba(255, 107, 26, 0.45);
+  outline-offset: 3px;
+}
+
 th,
 td {
   border: 1px solid var(--border);
